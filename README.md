@@ -3,7 +3,7 @@
 ## 使用上の注意
 - 環境設定
 - 初期設定
-‐ 使い方
+- 使い方
 
 ## コードサンプル
 
@@ -21,4 +21,5 @@
 ![画像](http://www.google.jp/img.jpg)
 
 |header1|header2|header3|
+|:--:|:--:|:--:|
 |aa|bb|ccc|
